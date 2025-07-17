@@ -30,7 +30,7 @@ export class MyApp extends LitElement {
     return html`
       <div class='container'>
         <h1>다시 태어날거야</h1>
-        <p>실제 국가별 인구 수와 소득 비율을 고려하여 다시 태어나면 어디서 태어날 지 랜덤으로 보여줍니다!</p>
+        <p>실제 국가별 인구 수를 고려하여 다시 태어나면 어디서 태어날 지 랜덤으로 보여줍니다!</p>
         <div class="info">
           <div class='flag-image'>
             <img src=${this.imageUrl} onerror='this.src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_with_question_mark.svg/1200px-Flag_with_question_mark.svg.png"'>
