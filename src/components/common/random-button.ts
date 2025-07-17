@@ -1,6 +1,7 @@
 import { LitElement, css, html } from 'lit';
-import { customElement, state } from 'lit/decorators.js';
-import { chooseRandomCountry, fetchPopulationData, getTotalPopulation } from '@/utils/population';
+import { customElement, property, state } from 'lit/decorators.js';
+import { chooseRandomCountry, getTotalPopulation } from '@/utils/population';
+import { populationStore } from '@/store/population.store';
 import type { CountryData } from '@/types';
 
 @customElement('random-button')
@@ -11,15 +12,21 @@ export class RandomButton extends LitElement {
   @state()
   countryData: CountryData[] = [];
 
+  @property({ type: Boolean })
+  disabled: boolean = false;
+
   render() {
     return html`
       <button
         @click=${this.handleClick}
+        ?disabled=${this.disabled}
       >부활</button>
     `;
   }
 
   handleClick() {
+    if (this.disabled || populationStore.isLoading) return; // 로딩 중일 때 클릭 방지
+
     const country = chooseRandomCountry(this.countryData);
     
     const event = new CustomEvent('country-selected', {
@@ -36,7 +43,9 @@ export class RandomButton extends LitElement {
   async connectedCallback() {
     super.connectedCallback();
 
-    this.countryData = await fetchPopulationData();
+    // 데이터 로딩
+    await populationStore.loadData();
+    this.countryData = Array.from(populationStore.countries);
     this.totalPopulation = getTotalPopulation(this.countryData);
   }
   
@@ -65,6 +74,16 @@ export class RandomButton extends LitElement {
         transform: translateY(8px);
         box-shadow: 0 0 0 0 #42905f;
         background-color: #578e63;
+      }
+
+      &:disabled {
+        background: #42905f;
+        box-shadow: 0 8px 0 0 #214530;
+        cursor: not-allowed;
+
+        &:hover {
+          transform: translateY(0);
+        }
       }
     }
   `;

@@ -1,3 +1,4 @@
+import { populationStore } from '@/store/population.store';
 import type { CountryData } from '@/types';
 import { LitElement, css, html } from 'lit';
 import { customElement, state } from 'lit/decorators.js';
@@ -14,32 +15,96 @@ export class MyApp extends LitElement {
   };
 
   @state()
+  countryName: string = '대한민국';
+
+  @state()
+  countryPercentage: number = 0.59;
+
+  @state()
   imageUrl: string = 'https://flagcdn.com/w640/kr.jpg';
 
-  render() {
-    console.log(this.country);
+  @state()
+  isLoading: boolean = false;
 
+  render() {
     return html`
       <div class='container'>
         <h1>다시 태어날거야</h1>
         <p>실제 국가별 인구 수와 소득 비율을 고려하여 다시 태어나면 어디서 태어날 지 랜덤으로 보여줍니다!</p>
         <div class="info">
-          <div class='country-image'>
+          <div class='flag-image'>
             <img src=${this.imageUrl} onerror='this.src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_with_question_mark.svg/1200px-Flag_with_question_mark.svg.png"'>
             </img>
           </div>
-          <div class='country-name'>${this.country ? `${this.country.name} (${this.country.percentage}%)` : ''}</div>
-          <random-button></random-button>
+          <div class='country-name'>${this.countryName} (${this.countryPercentage}%)</div>
+          <random-button ?disabled=${this.isLoading}></random-button>
         </div>
       </div>
     `;
+  }
+
+  async connectedCallback() {
+    super.connectedCallback();
+    await populationStore.loadData();
   }
 
   firstUpdated() {
     this.addEventListener('country-selected', ((event: CustomEvent) => {
       const { country } = event.detail;
       this.country = country;
-      this.imageUrl = `https://flagcdn.com/w320/${country.code}.jpg`;
+
+      this.isLoading = true;
+
+      const img = new Image();
+      img.src = `https://flagcdn.com/w320/${country.code}.jpg`;
+      const inDuration = 750;
+      const outDuration = 250;
+
+      // 로딩되는 동안 국가 이름 변경
+      const now: number = Date.now();
+      const interval = setInterval(async () => {
+        const diff = Date.now() - now;
+        const percentage = Math.min(diff / (inDuration + outDuration), 1);
+
+        await populationStore.loadData();
+        const countries: readonly CountryData[] = populationStore.countries;
+        const country = countries[Math.floor(Math.random() * countries.length)];
+        this.countryName = country.name;
+        this.countryPercentage = country.percentage;
+      }, 50);
+
+      // 이미지 변경 애니메이션 (로딩 안보이게 하기 위해 ㅎ)
+      const flagImage = this.shadowRoot?.querySelector('.flag-image');
+      if (flagImage) {
+        flagImage.animate([{
+          opacity: 1,
+        }, {
+          opacity: 0,
+        }], {
+          duration: inDuration,
+          easing: 'ease-out',
+        });
+
+        setTimeout(() => {
+          this.imageUrl = img.src;
+          flagImage.animate([{
+            opacity: 0,
+          }, {
+            opacity: 1,
+          }], {
+            duration: outDuration,
+            easing: 'ease-out',
+          });
+        }, inDuration);
+
+        setTimeout(() => {
+          this.isLoading = false;
+          clearInterval(interval);
+
+          this.countryName = this.country?.name || '';
+          this.countryPercentage = this.country?.percentage || 0;
+        }, inDuration + outDuration);
+      }
     }) as EventListener);
   }
 
@@ -63,16 +128,23 @@ export class MyApp extends LitElement {
         align-items: center;
         gap: 0.5rem;
 
-        & .country-image {
+        & .flag-image {
           display: flex;
           align-items: center;
           justify-content: center;
 
           width: 160px;
           height: 160px;
-
+          
           & img {
             width: 100%;
+            border-radius: 10px;
+            border: 0 solid #66b984;
+            transition: all 0.15s ease-out;
+
+            &:hover {
+              border: 4px solid #66b984;
+            }
           }
         }
         

@@ -27,6 +27,13 @@ main {
   justify-content: center;
 }
 
+@media screen and (max-width: 400px) {
+  .root-container {
+    width: 100%;
+    padding: 0 2rem;
+  }
+}
+
 my-app {
   width: 100%;
   display: flex;
