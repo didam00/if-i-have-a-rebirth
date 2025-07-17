@@ -34,7 +34,6 @@ class PopulationStore extends EventTarget {
           this.dispatchEvent(new CustomEvent('updated'));
         });
     }
-    console.log("check");
     return this._dataPromise;
   }
 }
