@@ -1,7 +1,7 @@
 import type { CountryData } from '@/types';
 
 export async function fetchPopulationData(): Promise<CountryData[]> {
-  const res = await fetch('/json/population.json');
+  const res = await fetch('/data/population.json');
   if (!res.ok) {
     throw new Error(`Failed to fetch population data: ${res.statusText}`);
   }

@@ -3,4 +3,5 @@ export interface CountryData {
   population: number;
   percentage: number;
   year: number;
+  code: string;
 }
