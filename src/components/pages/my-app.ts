@@ -67,7 +67,7 @@ export class MyApp extends LitElement {
         const country = countries[Math.floor(Math.random() * countries.length)];
         this.countryName = country.name;
         this.countryPercentage = country.percentage;
-      }, 50);
+      }, 25);
 
       // 이미지 변경 애니메이션 (로딩 안보이게 하기 위해 ㅎ)
       const flagImage = this.shadowRoot?.querySelector('.flag-image');

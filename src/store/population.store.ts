@@ -22,7 +22,7 @@ class PopulationStore extends EventTarget {
 
   public loadData(): Promise<void> {
     if (!this._dataPromise) {
-      this._dataPromise = fetch('/data/population.json')
+      this._dataPromise = fetch(import.meta.env.BASE_URL + 'data/population.json')
         .then(response => {
           if (!response.ok) throw new Error(`HTTP 오류! 상태: ${response.status}`);
           return response.json();
