@@ -61,11 +61,7 @@ export class MyApp extends LitElement {
       const outDuration = 250;
 
       // 로딩되는 동안 국가 이름 변경
-      const now: number = Date.now();
       const interval = setInterval(async () => {
-        const diff = Date.now() - now;
-        const percentage = Math.min(diff / (inDuration + outDuration), 1);
-
         await populationStore.loadData();
         const countries: readonly CountryData[] = populationStore.countries;
         const country = countries[Math.floor(Math.random() * countries.length)];
