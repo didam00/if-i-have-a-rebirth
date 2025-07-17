@@ -1,0 +1,1710 @@
+[
+  {
+    "name": "인도",
+    "population": 1463865525,
+    "percentage": 17.8,
+    "year": 2025,
+    "code": "in"
+  },
+  {
+    "name": "중국",
+    "population": 1416096094,
+    "percentage": 17.7,
+    "year": 2025,
+    "code": "cn"
+  },
+  {
+    "name": "미국",
+    "population": 347207807,
+    "percentage": 4.23,
+    "year": 2025,
+    "code": "us"
+  },
+  {
+    "name": "인도네시아",
+    "population": 285721236,
+    "percentage": 3.42,
+    "year": 2025,
+    "code": "id"
+  },
+  {
+    "name": "파키스탄",
+    "population": 255219554,
+    "percentage": 2.91,
+    "year": 2025,
+    "code": "pk"
+  },
+  {
+    "name": "나이지리아",
+    "population": 237527782,
+    "percentage": 2.73,
+    "year": 2025,
+    "code": "ng"
+  },
+  {
+    "name": "브라질",
+    "population": 212812405,
+    "percentage": 2.69,
+    "year": 2025,
+    "code": "br"
+  },
+  {
+    "name": "방글라데시",
+    "population": 175686899,
+    "percentage": 2.16,
+    "year": 2025,
+    "code": "bd"
+  },
+  {
+    "name": "러시아",
+    "population": 146028325,
+    "percentage": 1.81,
+    "year": 2025,
+    "code": "ru"
+  },
+  {
+    "name": "에티오피아",
+    "population": 135472051,
+    "percentage": 1.59,
+    "year": 2025,
+    "code": "et"
+  },
+  {
+    "name": "멕시코",
+    "population": 131946900,
+    "percentage": 1.56,
+    "year": 2025,
+    "code": "mx"
+  },
+  {
+    "name": "일본",
+    "population": 123103479,
+    "percentage": 1.51,
+    "year": 2025,
+    "code": "jp"
+  },
+  {
+    "name": "이집트",
+    "population": 118365995,
+    "percentage": 1.46,
+    "year": 2025,
+    "code": "eg"
+  },
+  {
+    "name": "필리핀",
+    "population": 116786962,
+    "percentage": 1.41,
+    "year": 2025,
+    "code": "ph"
+  },
+  {
+    "name": "콩고민주공화국",
+    "population": 112832473,
+    "percentage": 1.29,
+    "year": 2025,
+    "code": "cd"
+  },
+  {
+    "name": "베트남",
+    "population": 101598527,
+    "percentage": 1.22,
+    "year": 2025,
+    "code": "vn"
+  },
+  {
+    "name": "이란",
+    "population": 92417681,
+    "percentage": 1.1,
+    "year": 2025,
+    "code": "ir"
+  },
+  {
+    "name": "튀르키예",
+    "population": 87685426,
+    "percentage": 1.06,
+    "year": 2025,
+    "code": "tr"
+  },
+  {
+    "name": "독일",
+    "population": 84075075,
+    "percentage": 1.01,
+    "year": 2025,
+    "code": "de"
+  },
+  {
+    "name": "태국",
+    "population": 71619863,
+    "percentage": 0.88,
+    "year": 2025,
+    "code": "th"
+  },
+  {
+    "name": "탄자니아",
+    "population": 70545865,
+    "percentage": 0.86,
+    "year": 2025,
+    "code": "tz"
+  },
+  {
+    "name": "영국",
+    "population": 69551332,
+    "percentage": 0.85,
+    "year": 2025,
+    "code": "gb"
+  },
+  {
+    "name": "프랑스",
+    "population": 68615000,
+    "percentage": 0.77,
+    "year": 2025,
+    "code": "fr"
+  },
+  {
+    "name": "남아프리카 공화국",
+    "population": 64747319,
+    "percentage": 0.76,
+    "year": 2025,
+    "code": "za"
+  },
+  {
+    "name": "이탈리아",
+    "population": 59146260,
+    "percentage": 0.75,
+    "year": 2025,
+    "code": "it"
+  },
+  {
+    "name": "케냐",
+    "population": 57532493,
+    "percentage": 0.7,
+    "year": 2025,
+    "code": "ke"
+  },
+  {
+    "name": "미얀마",
+    "population": 54850648,
+    "percentage": 0.69,
+    "year": 2025,
+    "code": "mm"
+  },
+  {
+    "name": "콜롬비아",
+    "population": 53425635,
+    "percentage": 0.66,
+    "year": 2025,
+    "code": "co"
+  },
+  {
+    "name": "수단 공화국",
+    "population": 51662147,
+    "percentage": 0.65,
+    "year": 2025,
+    "code": "sd"
+  },
+  {
+    "name": "우간다",
+    "population": 51384894,
+    "percentage": 0.6,
+    "year": 2025,
+    "code": "ug"
+  },
+  {
+    "name": "대한민국",
+    "population": 51207874,
+    "percentage": 0.59,
+    "year": 2025,
+    "code": "kr"
+  },
+  {
+    "name": "스페인",
+    "population": 49077984,
+    "percentage": 0.58,
+    "year": 2025,
+    "code": "es"
+  },
+  {
+    "name": "이라크",
+    "population": 47435312,
+    "percentage": 0.57,
+    "year": 2025,
+    "code": "iq"
+  },
+  {
+    "name": "알제리",
+    "population": 47020774,
+    "percentage": 0.56,
+    "year": 2025,
+    "code": "dz"
+  },
+  {
+    "name": "아르헨티나",
+    "population": 45851378,
+    "percentage": 0.52,
+    "year": 2025,
+    "code": "ar"
+  },
+  {
+    "name": "아프가니스탄",
+    "population": 43844111,
+    "percentage": 0.52,
+    "year": 2025,
+    "code": "af"
+  },
+  {
+    "name": "예멘",
+    "population": 41773878,
+    "percentage": 0.49,
+    "year": 2025,
+    "code": "ye"
+  },
+  {
+    "name": "캐나다",
+    "population": 40126723,
+    "percentage": 0.48,
+    "year": 2025,
+    "code": "ca"
+  },
+  {
+    "name": "앙골라",
+    "population": 39040039,
+    "percentage": 0.47,
+      "year": 2025,
+    "code": "ao"
+  },
+  {
+    "name": "우크라이나",
+    "population": 38980376,
+    "percentage": 0.47,
+    "year": 2025,
+    "code": "ua"
+  },
+  {
+    "name": "모로코",
+    "population": 38430770,
+    "percentage": 0.47,
+    "year": 2025,
+    "code": "ma"
+  },
+  {
+    "name": "폴란드",
+    "population": 38140910,
+    "percentage": 0.42,
+    "year": 2025,
+    "code": "pl"
+  },
+  {
+    "name": "우즈베키스탄",
+    "population": 37053428,
+    "percentage": 0.42,
+    "year": 2025,
+    "code": "uz"
+  },
+  {
+    "name": "말레이시아",
+    "population": 35977838,
+    "percentage": 0.42,
+    "year": 2025,
+    "code": "my"
+  },
+  {
+    "name": "모잠비크",
+    "population": 35631653,
+    "percentage": 0.4,
+    "year": 2025,
+    "code": "mz"
+  },
+  {
+    "name": "가나",
+    "population": 35064272,
+    "percentage": 0.39,
+    "year": 2025,
+    "code": "gh"
+  },
+  {
+    "name": "페루",
+    "population": 34576665,
+    "percentage": 0.39,
+    "year": 2025,
+    "code": "pe"
+  },
+  {
+    "name": "사우디아라비아",
+    "population": 34566328,
+    "percentage": 0.39,
+    "year": 2025,
+    "code": "sa"
+  },
+  {
+    "name": "마다가스카르",
+    "population": 32740678,
+    "percentage": 0.39,
+    "year": 2025,
+    "code": "mg"
+  },
+  {
+    "name": "코트디부아르",
+    "population": 32711547,
+    "percentage": 0.36,
+    "year": 2025,
+    "code": "ci"
+  },
+  {
+    "name": "카메룬",
+    "population": 29879337,
+    "percentage": 0.34,
+    "year": 2025,
+    "code": "cm"
+  },
+  {
+    "name": "네팔",
+    "population": 29618118,
+    "percentage": 0.34,
+    "year": 2025,
+    "code": "np"
+  },
+  {
+    "name": "베네수엘라",
+    "population": 28516896,
+    "percentage": 0.33,
+    "year": 2025,
+    "code": "ve"
+  },
+  {
+    "name": "니제르",
+    "population": 27917831,
+    "percentage": 0.33,
+    "year": 2025,
+    "code": "ne"
+  },
+  {
+    "name": "호주",
+    "population": 27204800,
+    "percentage": 0.31,
+    "year": 2025,
+    "code": "au"
+  },
+  {
+    "name": "북한",
+    "population": 26571036,
+    "percentage": 0.31,
+    "year": 2025,
+    "code": "kp"
+  },
+  {
+    "name": "시리아",
+    "population": 25620427,
+    "percentage": 0.28,
+    "year": 2025,
+    "code": "sy"
+  },
+  {
+    "name": "말리",
+    "population": 25198821,
+    "percentage": 0.27,
+    "year": 2025,
+    "code": "ml"
+  },
+  {
+    "name": "부르키나파소",
+    "population": 24074580,
+    "percentage": 0.27,
+    "year": 2025,
+    "code": "bf"
+  },
+  {
+    "name": "스리랑카",
+    "population": 23229470,
+    "percentage": 0.25,
+    "year": 2025,
+    "code": "lk"
+  },
+  {
+    "name": "말라위",
+    "population": 22216120,
+    "percentage": 0.25,
+    "year": 2025,
+    "code": "mw"
+  },
+  {
+    "name": "잠비아",
+    "population": 21913874,
+    "percentage": 0.24,
+    "year": 2025,
+    "code": "zm"
+  },
+  {
+    "name": "차드",
+    "population": 21003705,
+    "percentage": 0.24,
+    "year": 2025,
+    "code": "td"
+  },
+  {
+    "name": "카자흐스탄",
+    "population": 20843754,
+    "percentage": 0.23,
+    "year": 2025,
+    "code": "kz"
+  },
+  {
+    "name": "칠레",
+    "population": 19859921,
+    "percentage": 0.23,
+    "year": 2025,
+    "code": "cl"
+  },
+  {
+    "name": "소말리아",
+    "population": 19654739,
+    "percentage": 0.23,
+    "year": 2025,
+    "code": "so"
+  },
+  {
+    "name": "세네갈",
+    "population": 18931966,
+    "percentage": 0.22,
+    "year": 2025,
+    "code": "sn"
+  },
+  {
+    "name": "루마니아",
+    "population": 18908650,
+    "percentage": 0.22,
+    "year": 2025,
+    "code": "ro"
+  },
+  {
+    "name": "과테말라",
+    "population": 18687881,
+    "percentage": 0.22,
+    "year": 2025,
+    "code": "gt"
+  },
+  {
+    "name": "네덜란드",
+    "population": 18346819,
+    "percentage": 0.21,
+    "year": 2025,
+    "code": "nl"
+  },
+  {
+    "name": "에콰도르",
+    "population": 18289896,
+    "percentage": 0.21,
+    "year": 2025,
+    "code": "ec"
+  },
+  {
+    "name": "캄보디아",
+    "population": 17847982,
+    "percentage": 0.21,
+    "year": 2025,
+    "code": "kh"
+  },
+  {
+    "name": "짐바브웨",
+    "population": 16950795,
+    "percentage": 0.2,
+    "year": 2025,
+    "code": "zw"
+  },
+  {
+    "name": "기니",
+    "population": 15099727,
+    "percentage": 0.17,
+    "year": 2025,
+    "code": "gn"
+  },
+  {
+    "name": "베냉",
+    "population": 14814460,
+    "percentage": 0.16,
+    "year": 2025,
+    "code": "bj"
+  },
+  {
+    "name": "르완다",
+    "population": 14569341,
+    "percentage": 0.16,
+    "year": 2025,
+    "code": "rw"
+  },
+  {
+    "name": "부룬디",
+    "population": 14390003,
+    "percentage": 0.16,
+    "year": 2025,
+    "code": "bi"
+  },
+  {
+    "name": "볼리비아",
+    "population": 12581843,
+    "percentage": 0.15,
+    "year": 2025,
+    "code": "bo"
+  },
+  {
+    "name": "튀니지",
+    "population": 12348573,
+    "percentage": 0.15,
+    "year": 2025,
+    "code": "tn"
+  },
+  {
+    "name": "남수단",
+    "population": 12188788,
+    "percentage": 0.15,
+    "year": 2025,
+    "code": "ss"
+  },
+  {
+    "name": "아이티",
+    "population": 11906095,
+    "percentage": 0.15,
+    "year": 2025,
+    "code": "ht"
+  },
+  {
+    "name": "벨기에",
+    "population": 11758603,
+    "percentage": 0.15,
+    "year": 2025,
+    "code": "be"
+  },
+  {
+    "name": "요르단",
+    "population": 11520684,
+    "percentage": 0.14,
+    "year": 2025,
+    "code": "jo"
+  },
+  {
+    "name": "도미니카 공화국",
+    "population": 11520487,
+    "percentage": 0.14,
+    "year": 2025,
+    "code": "do"
+  },
+  {
+    "name": "아랍에미리트",
+    "population": 11346000,
+    "percentage": 0.14,
+    "year": 2025,
+    "code": "ae"
+  },
+  {
+    "name": "온두라스",
+    "population": 11005850,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "hn"
+  },
+  {
+    "name": "쿠바",
+    "population": 10937203,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "cu"
+  },
+  {
+    "name": "타지키스탄",
+    "population": 10786734,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "tj"
+  },
+  {
+    "name": "파푸아뉴기니",
+    "population": 10762817,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "pg"
+  },
+  {
+    "name": "스웨덴",
+    "population": 10656633,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "se"
+  },
+  {
+    "name": "체코",
+    "population": 10609239,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "cz"
+  },
+  {
+    "name": "포르투갈",
+    "population": 10411834,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "pt"
+  },
+  {
+    "name": "아제르바이잔",
+    "population": 10397713,
+    "percentage": 0.13,
+    "year": 2025,
+    "code": "az"
+  },
+  {
+    "name": "그리스",
+    "population": 9938844,
+    "percentage": 0.12,
+    "year": 2025,
+    "code": "gr"
+  },
+  {
+    "name": "토고",
+    "population": 9721608,
+    "percentage": 0.12,
+    "year": 2025,
+    "code": "tg"
+  },
+  {
+    "name": "헝가리",
+    "population": 9632287,
+    "percentage": 0.12,
+    "year": 2025,
+    "code": "hu"
+  },
+  {
+    "name": "이스라엘",
+    "population": 9517181,
+    "percentage": 0.12,
+    "year": 2025,
+    "code": "il"
+  },
+  {
+    "name": "오스트리아",
+    "population": 9113574,
+    "percentage": 0.11,
+    "year": 2025,
+    "code": "at"
+  },
+  {
+    "name": "벨라루스",
+    "population": 8997603,
+    "percentage": 0.11,
+    "year": 2025,
+    "code": "by"
+  },
+  {
+    "name": "스위스",
+    "population": 8967407,
+    "percentage": 0.11,
+    "year": 2025,
+    "code": "ch"
+  },
+  {
+    "name": "시에라리온",
+    "population": 8819794,
+    "percentage": 0.11,
+    "year": 2025,
+    "code": "sl"
+  },
+  {
+    "name": "라오스",
+    "population": 7873046,
+    "percentage": 0.09,
+    "year": 2025,
+    "code": "la"
+  },
+  {
+    "name": "투르크메니스탄",
+    "population": 7618847,
+    "percentage": 0.09,
+    "year": 2025,
+    "code": "tm"
+  },
+  {
+    "name": "리비아",
+    "population": 7458555,
+    "percentage": 0.09,
+    "year": 2025,
+    "code": "ly"
+  },
+  {
+    "name": "키르기스스탄",
+    "population": 7295034,
+    "percentage": 0.09,
+    "year": 2025,
+    "code": "kg"
+  },
+  {
+    "name": "파라과이",
+    "population": 7013078,
+    "percentage": 0.09,
+    "year": 2025,
+    "code": "py"
+  },
+  {
+    "name": "니카라과",
+    "population": 7007502,
+    "percentage": 0.08,
+    "year": 2025,
+    "code": "ni"
+  },
+  {
+    "name": "세르비아",
+    "population": 6689039,
+    "percentage": 0.08,
+    "year": 2025,
+    "code": "rs"
+  },
+  {
+    "name": "불가리아",
+    "population": 6714560,
+    "percentage": 0.08,
+    "year": 2025,
+    "code": "bg"
+  },
+  {
+    "name": "콩고 공화국",
+    "population": 6484437,
+    "percentage": 0.08,
+    "year": 2025,
+    "code": "cg"
+  },
+  {
+    "name": "엘살바도르",
+    "population": 6365503,
+    "percentage": 0.08,
+    "year": 2025,
+    "code": "sv"
+  },
+  {
+    "name": "덴마크",
+    "population": 6002507,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "dk"
+  },
+  {
+    "name": "싱가포르",
+    "population": 5870750,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "sg"
+  },
+  {
+    "name": "레바논",
+    "population": 5849421,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "lb"
+  },
+  {
+    "name": "라이베리아",
+    "population": 5731206,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "lr"
+  },
+  {
+    "name": "핀란드",
+    "population": 5623329,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "fi"
+  },
+  {
+    "name": "노르웨이",
+    "population": 5623071,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "no"
+  },
+  {
+    "name": "팔레스타인",
+    "population": 5589623,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "ps"
+  },
+  {
+    "name": "중앙아프리카공화국",
+    "population": 5513282,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "cf"
+  },
+  {
+    "name": "오만",
+    "population": 5494691,
+    "percentage": 0.07,
+    "year": 2025,
+    "code": "om"
+  },
+  {
+    "name": "슬로바키아",
+    "population": 5474881,
+    "percentage": 0.06,
+    "year": 2025,
+    "code": "sk"
+  },
+  {
+    "name": "모리타니",
+    "population": 5315065,
+    "percentage": 0.06,
+    "year": 2025,
+    "code": "mr"
+  },
+  {
+    "name": "아일랜드",
+    "population": 5308039,
+    "percentage": 0.06,
+    "year": 2025,
+    "code": "ie"
+  },
+  {
+    "name": "뉴질랜드",
+    "population": 5251899,
+    "percentage": 0.06,
+    "year": 2025,
+    "code": "nz"
+  },
+  {
+    "name": "코스타리카",
+    "population": 5152950,
+    "percentage": 0.06,
+    "year": 2025,
+    "code": "cr"
+  },
+  {
+    "name": "쿠웨이트",
+    "population": 5026078,
+    "percentage": 0.06,
+    "year": 2025,
+    "code": "kw"
+  },
+  {
+    "name": "파나마",
+    "population": 4571189,
+    "percentage": 0.06,
+    "year": 2025,
+    "code": "pa"
+  },
+  {
+    "name": "크로아티아",
+    "population": 3848160,
+    "percentage": 0.05,
+    "year": 2025,
+    "code": "hr"
+  },
+  {
+    "name": "조지아",
+    "population": 3806671,
+    "percentage": 0.05,
+    "year": 2025,
+    "code": "ge"
+  },
+  {
+    "name": "에리트레아",
+    "population": 3607003,
+    "percentage": 0.04,
+    "year": 2025,
+    "code": "er"
+  },
+  {
+    "name": "몽골",
+    "population": 3517100,
+    "percentage": 0.04,
+    "year": 2025,
+    "code": "mn"
+  },
+  {
+    "name": "우루과이",
+    "population": 3384688,
+    "percentage": 0.04,
+    "year": 2025,
+    "code": "uy"
+  },
+  {
+    "name": "보스니아 헤르체고비나",
+    "population": 3140095,
+    "percentage": 0.04,
+    "year": 2025,
+    "code": "ba"
+  },
+  {
+    "name": "카타르",
+    "population": 3115889,
+    "percentage": 0.04,
+    "year": 2025,
+    "code": "qa"
+  },
+  {
+    "name": "나미비아",
+    "population": 3092816,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "na"
+  },
+  {
+    "name": "몰도바",
+    "population": 2996106,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "md"
+  },
+  {
+    "name": "아르메니아",
+    "population": 2952365,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "am"
+  },
+  {
+    "name": "리투아니아",
+    "population": 2889402,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "lt"
+  },
+  {
+    "name": "자메이카",
+    "population": 2837077,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "jm"
+  },
+  {
+    "name": "감비아",
+    "population": 2822093,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "gm"
+  },
+  {
+    "name": "알바니아",
+    "population": 2771508,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "al"
+  },
+  {
+    "name": "가봉",
+    "population": 2593130,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "ga"
+  },
+  {
+    "name": "보츠와나",
+    "population": 2562122,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "bw"
+  },
+  {
+    "name": "레소토",
+    "population": 2363325,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "ls"
+  },
+  {
+    "name": "기니비사우",
+    "population": 2249515,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "gw"
+  },
+  {
+    "name": "슬로베니아",
+    "population": 2117072,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "si"
+  },
+  {
+    "name": "적도 기니",
+    "population": 1938431,
+    "percentage": 0.03,
+    "year": 2025,
+    "code": "gq"
+  },
+  {
+    "name": "라트비아",
+    "population": 1853559,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "lv"
+  },
+  {
+    "name": "북마케도니아",
+    "population": 1813791,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "mk"
+  },
+  {
+    "name": "바레인",
+    "population": 1643332,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "bh"
+  },
+  {
+    "name": "트리니다드 토바고",
+    "population": 1511155,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "tt"
+  },
+  {
+    "name": "동티모르",
+    "population": 1418517,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "tl"
+  },
+  {
+    "name": "키프로스",
+    "population": 1370754,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "cy"
+  },
+  {
+    "name": "에스토니아",
+    "population": 1344232,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "ee"
+  },
+  {
+    "name": "모리셔스",
+    "population": 1268280,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "mu"
+  },
+  {
+    "name": "에스와티니",
+    "population": 1256174,
+    "percentage": 0.02,
+    "year": 2025,
+    "code": "sz"
+  },
+  {
+    "name": "지부티",
+    "population": 1184076,
+    "percentage": 0.01,
+    "year": 2025,
+    "code": "dj"
+  },
+  {
+    "name": "피지",
+    "population": 933154,
+    "percentage": 0.01,
+    "year": 2025,
+    "code": "fj"
+  },
+  {
+    "name": "코모로",
+    "population": 882847,
+    "percentage": 0.01,
+    "year": 2025,
+    "code": "km"
+  },
+  {
+    "name": "솔로몬 제도",
+    "population": 838645,
+    "percentage": 0.01,
+    "year": 2025,
+    "code": "sb"
+  },
+  {
+    "name": "가이아나",
+    "population": 835986,
+    "percentage": 0.01,
+    "year": 2025,
+    "code": "gy"
+  },
+  {
+    "name": "부탄",
+    "population": 796682,
+    "percentage": 0.009,
+    "year": 2025,
+    "code": "bt"
+  },
+  {
+    "name": "룩셈부르크",
+    "population": 680453,
+    "percentage": 0.008,
+    "year": 2025,
+    "code": "lu"
+  },
+  {
+    "name": "수리남",
+    "population": 639850,
+    "percentage": 0.008,
+    "year": 2025,
+    "code": "sr"
+  },
+  {
+    "name": "몬테네그로",
+    "population": 632729,
+    "percentage": 0.008,
+    "year": 2025,
+    "code": "me"
+  },
+  {
+    "name": "몰타",
+    "population": 545405,
+    "percentage": 0.007,
+    "year": 2025,
+    "code": "mt"
+  },
+  {
+    "name": "몰디브",
+    "population": 529676,
+    "percentage": 0.006,
+    "year": 2025,
+    "code": "mv"
+  },
+  {
+    "name": "카보베르데",
+    "population": 527326,
+    "percentage": 0.006,
+    "year": 2025,
+    "code": "cv"
+  },
+  {
+    "name": "브루나이",
+    "population": 466330,
+    "percentage": 0.006,
+    "year": 2025,
+    "code": "bn"
+  },
+  {
+    "name": "벨리즈",
+    "population": 422924,
+    "percentage": 0.005,
+    "year": 2025,
+    "code": "bz"
+  },
+  {
+    "name": "바하마",
+    "population": 403033,
+    "percentage": 0.005,
+    "year": 2025,
+    "code": "bs"
+  },
+  {
+    "name": "아이슬란드",
+    "population": 398266,
+    "percentage": 0.005,
+    "year": 2025,
+    "code": "is"
+  },
+  {
+    "name": "바누아투",
+    "population": 335169,
+    "percentage": 0.004,
+    "year": 2025,
+    "code": "vu"
+  },
+  {
+    "name": "바베이도스",
+    "population": 282623,
+    "percentage": 0.003,
+    "year": 2025,
+    "code": "bb"
+  },
+  {
+    "name": "상투메 프린시페",
+    "population": 240254,
+    "percentage": 0.003,
+    "year": 2025,
+    "code": "st"
+  },
+  {
+    "name": "사모아",
+    "population": 219306,
+    "percentage": 0.003,
+    "year": 2025,
+    "code": "ws"
+  },
+  {
+    "name": "세인트루시아",
+    "population": 180149,
+    "percentage": 0.002,
+    "year": 2025,
+    "code": "lc"
+  },
+  {
+    "name": "키리바시",
+    "population": 136488,
+    "percentage": 0.002,
+    "year": 2025,
+    "code": "ki"
+  },
+  {
+    "name": "세이셸",
+    "population": 132779,
+    "percentage": 0.002,
+    "year": 2025,
+    "code": "sc"
+  },
+  {
+    "name": "그레나다",
+    "population": 117303,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "gd"
+  },
+  {
+    "name": "미크로네시아 연방",
+    "population": 113683,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "fm"
+  },
+  {
+    "name": "통가",
+    "population": 103742,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "to"
+  },
+  {
+    "name": "세인트빈센트 그레나딘",
+    "population": 99924,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "vc"
+  },
+  {
+    "name": "앤티가 바부다",
+    "population": 94209,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "ag"
+  },
+  {
+    "name": "안도라",
+    "population": 82904,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "ad"
+  },
+  {
+    "name": "도미니카 연방",
+    "population": 65871,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "dm"
+  },
+  {
+    "name": "세인트키츠 네비스",
+    "population": 46922,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "kn"
+  },
+  {
+    "name": "리히텐슈타인",
+    "population": 40128,
+    "percentage": 0,
+    "year": 2025,
+    "code": "li"
+  },
+  {
+    "name": "모나코",
+    "population": 38341,
+    "percentage": 0,
+    "year": 2025,
+    "code": "mc"
+  },
+  {
+    "name": "마셜 제도",
+    "population": 36282,
+    "percentage": 0,
+    "year": 2025,
+    "code": "mh"
+  },
+  {
+    "name": "산마리노",
+    "population": 34042,
+    "percentage": 0,
+    "year": 2025,
+    "code": "sm"
+  },
+  {
+    "name": "팔라우",
+    "population": 17663,
+    "percentage": 0,
+    "year": 2025,
+    "code": "pw"
+  },
+  {
+    "name": "나우루",
+    "population": 12025,
+    "percentage": 0,
+    "year": 2025,
+    "code": "nr"
+  },
+  {
+    "name": "투발루",
+    "population": 9492,
+    "percentage": 0,
+    "year": 2025,
+    "code": "tv"
+  },
+  {
+    "name": "바티칸",
+    "population": 501,
+    "percentage": 0,
+    "year": 2025,
+    "code": "va"
+  },
+  {
+    "name": "대만",
+    "population": 23112793,
+    "percentage": 0.28,
+    "year": 2025,
+    "code": "tw"
+  },
+  {
+    "name": "홍콩",
+    "population": 7396076,
+    "percentage": 0.09,
+    "year": 2025,
+    "code": "hk"
+  },
+  {
+    "name": "소말릴란드",
+    "population": 3508180,
+    "percentage": 0.04,
+    "year": 2017,
+    "code": "so"
+  },
+  {
+    "name": "푸에르토리코",
+    "population": 3235289,
+    "percentage": 0.04,
+    "year": 2025,
+    "code": "pr"
+  },
+  {
+    "name": "코소보",
+    "population": 1761985,
+    "percentage": 0.02,
+    "year": 2024,
+    "code": "xk"
+  },
+  {
+    "name": "레위니옹",
+    "population": 882405,
+    "percentage": 0.01,
+    "year": 2025,
+    "code": "re"
+  },
+  {
+    "name": "마카오",
+    "population": 722007,
+    "percentage": 0.009,
+    "year": 2025,
+    "code": "mo"
+  },
+  {
+    "name": "사하라 아랍 민주 공화국",
+    "population": 600904,
+    "percentage": 0.007,
+    "year": 2025,
+    "code": "eh"
+  },
+  {
+    "name": "트란스니스트리아",
+    "population": 465200,
+    "percentage": 0.006,
+    "year": 2018,
+    "code": "md"
+  },
+  {
+    "name": "북키프로스",
+    "population": 392486,
+    "percentage": 0.005,
+    "year": 2022,
+    "code": "cy"
+  },
+  {
+    "name": "과들루프",
+    "population": 373791,
+    "percentage": 0.006,
+    "year": 2025,
+    "code": "gp"
+  },
+  {
+    "name": "마르티니크",
+    "population": 340439,
+    "percentage": 0.004,
+    "year": 2025,
+    "code": "mq"
+  },
+  {
+    "name": "마요트",
+    "population": 337011,
+    "percentage": 0.004,
+    "year": 2025,
+    "code": "yt"
+  },
+  {
+    "name": "누벨칼레도니",
+    "population": 295333,
+    "percentage": 0.004,
+    "year": 2025,
+    "code": "nc"
+  },
+  {
+    "name": "프랑스령 폴리네시아",
+    "population": 282465,
+    "percentage": 0.003,
+    "year": 2025,
+    "code": "pf"
+  },
+  {
+    "name": "부건빌",
+    "population": 249358,
+    "percentage": 0.003,
+    "year": 2021,
+    "code": "pg"
+  },
+  {
+    "name": "압하지야",
+    "population": 245424,
+    "percentage": 0.003,
+    "year": 2020,
+    "code": "ge"
+  },
+  {
+    "name": "퀴라소",
+    "population": 185487,
+    "percentage": 0.002,
+    "year": 2025,
+    "code": "cw"
+  },
+  {
+    "name": "괌",
+    "population": 168999,
+    "percentage": 0.002,
+    "year": 2025,
+    "code": "gu"
+  },
+  {
+    "name": "채널 제도",
+    "population": 166083,
+    "percentage": 0.002,
+    "year": 2020,
+    "code": "je"
+  },
+  {
+    "name": "아루바",
+    "population": 108147,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "aw"
+  },
+  {
+    "name": "미국령 버진아일랜드",
+    "population": 84138,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "vi"
+  },
+  {
+    "name": "맨 섬",
+    "population": 84118,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "im"
+  },
+  {
+    "name": "케이맨 제도",
+    "population": 75844,
+    "percentage": 0.001,
+    "year": 2025,
+    "code": "ky"
+  },
+  {
+    "name": "버뮤다",
+    "population": 64555,
+    "percentage": 0,
+    "year": 2025,
+    "code": "bm"
+  },
+  {
+    "name": "페로 제도",
+    "population": 56002,
+    "percentage": 0,
+    "year": 2025,
+    "code": "fo"
+  },
+  {
+    "name": "그린란드",
+    "population": 55745,
+    "percentage": 0,
+    "year": 2025,
+    "code": "gl"
+  },
+  {
+    "name": "남오세티야",
+    "population": 53532,
+    "percentage": 0,
+    "year": 2021,
+    "code": "ge"
+  },
+  {
+    "name": "터크스 케이커스 제도",
+    "population": 46855,
+    "percentage": 0,
+    "year": 2025,
+    "code": "tc"
+  },
+  {
+    "name": "미국령 사모아",
+    "population": 46029,
+    "percentage": 0,
+    "year": 2025,
+    "code": "as"
+  },
+  {
+    "name": "신트마르턴",
+    "population": 43923,
+    "percentage": 0,
+    "year": 2025,
+    "code": "sx"
+  },
+  {
+    "name": "북마리아나 제도",
+    "population": 43541,
+    "percentage": 0,
+    "year": 2025,
+    "code": "mp"
+  },
+  {
+    "name": "지브롤터",
+    "population": 40126,
+    "percentage": 0,
+    "year": 2025,
+    "code": "gi"
+  },
+  {
+    "name": "영국령 버진아일랜드",
+    "population": 39732,
+    "percentage": 0,
+    "year": 2025,
+    "code": "vg"
+  },
+  {
+    "name": "생마르탱",
+    "population": 34065,
+    "percentage": 0,
+    "year": 2018,
+    "code": "mf"
+  },
+  {
+    "name": "올란드 제도",
+    "population": 30286,
+    "percentage": 0,
+    "year": 2021,
+    "code": "ax"
+  },
+  {
+    "name": "앵귈라",
+    "population": 14728,
+    "percentage": 0,
+    "year": 2025,
+    "code": "ai"
+  },
+  {
+    "name": "쿡 제도",
+    "population": 13263,
+    "percentage": 0,
+    "year": 2025,
+    "code": "ck"
+  },
+  {
+    "name": "생바르텔레미",
+    "population": 11414,
+    "percentage": 0,
+    "year": 2025,
+    "code": "bl"
+  },
+  {
+    "name": "왈리스 푸투나",
+    "population": 11194,
+    "percentage": 0,
+    "year": 2025,
+    "code": "wf"
+  },
+  {
+    "name": "세인트헬레나 어센션 트리스탄다쿠냐",
+    "population": 5197,
+    "percentage": 0,
+    "year": 2025,
+    "code": "sh"
+  },
+  {
+    "name": "몬트세랫",
+    "population": 4359,
+    "percentage": 0,
+    "year": 2025,
+    "code": "ms"
+  },
+  {
+    "name": "포클랜드 제도",
+    "population": 3469,
+    "percentage": 0,
+    "year": 2025,
+    "code": "fk"
+  },
+  {
+    "name": "토켈라우",
+    "population": 2608,
+    "percentage": 0,
+    "year": 2025,
+    "code": "tk"
+  },
+  {
+    "name": "크리스마스 섬",
+    "population": 1966,
+    "percentage": 0,
+    "year": 2020,
+    "code": "cx"
+  },
+  {
+    "name": "니우에",
+    "population": 1821,
+    "percentage": 0,
+    "year": 2025,
+    "code": "nu"
+  },
+  {
+    "name": "노퍽 섬",
+    "population": 1734,
+    "percentage": 0,
+    "year": 2020,
+    "code": "nf"
+  },
+  {
+    "name": "코코스 제도",
+    "population": 573,
+    "percentage": 0,
+    "year": 2021,
+    "code": "cc"
+  },
+  {
+    "name": "핏케언 제도",
+    "population": 35,
+    "percentage": 0.001,
+    "year": 2023,
+    "code": "pn"
+  }
+]
